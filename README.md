@@ -6,3 +6,4 @@ Examples of using free web API.
 
 1. Query String
 2. Random Cat Data
+3. Secrets
